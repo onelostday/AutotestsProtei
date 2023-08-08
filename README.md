@@ -35,9 +35,11 @@
 - ✓ Проверка отправки второй анкеты с пустыми полями.
 
 ## <img src="images/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Jenkins job
-<a target="_blank" href="https://jenkins.autotests.cloud/job/berezkindv_performance_lab_complete_project/">Сборка в Jenkins</a>
-<p align="center">
-<a href="https://jenkins.autotests.cloud/job/berezkindv_performance_lab_complete_project/"><img src="images/jenkins_job.png" alt="Jenkins"/></a>
+
+<a><img src="images/jen_1.png" alt="Jenkins"/></a>
+
+<a><img src="images/jen_2.png" alt="Jenkins"/></a>
+
 </p>
 
 ### Параметры сборки в Jenkins:
@@ -66,24 +68,23 @@ test
 -Dthreads=${THREADS}
 ```
 
-## <img src="images/Allure_Report.svg" width="25" height="25"  alt="Allure"/></a> Отчет в <a target="_blank" href="https://jenkins.autotests.cloud/job/berezkindv_performance_lab_complete_project/22/allure/">Allure report</a>
+## <img src="images/Allure_Report.svg" width="25" height="25"  alt="Allure"/></a> Отчет в <a>Allure report</a>
 
 ### Основное окно
 
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/allure_main.png">
+<img title="Allure Overview Dashboard" src="images/allure_1.png">
 </p>
 
 ### Тесты
 
 <p align="center">
-<img title="Allure Tests" src="images/allure_tests.png">
+<img title="Allure Tests" src="images/allure_2.png">
 </p>
 
 ### Графики
 
 <p align="center">
-<img title="Allure Graphics" src="images/allure_graphics.png">
+<img title="Allure Graphics" src="images/allure_3.png">
 </p>
 
-## <img src="images/Allure_EE.svg" width="25" height="25"  alt="Allure"/></a>Интеграция с <a target="_blank" href="https://allure.autotests.cloud/launch/10223">Allure TestOps</a>
